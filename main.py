@@ -20,7 +20,7 @@ banner = """
                                            ░                                                             
                               
 
-Discord     | https://discord.com/6qAvAephsW
+Discord     | https://discord.gg/GFUsay9T
 Made By     | mrnuggetthe1st
 Version     | V1.2.5
 """
